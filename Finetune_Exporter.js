@@ -30,8 +30,10 @@
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @downloadURL https://update.greasyfork.org/scripts/577234/Finetune%20Exporter%20-%20Exporteur%20Universel.user.js
-// @updateURL https://update.greasyfork.org/scripts/577234/Finetune%20Exporter%20-%20Exporteur%20Universel.meta.js
+// @homepageURL  https://github.com/Lombard-Web-Services/Finetune-Exporter
+// @supportURL   https://github.com/Lombard-Web-Services/Finetune-Exporter/issues
+// @downloadURL  https://raw.githubusercontent.com/Lombard-Web-Services/Finetune-Exporter/refs/heads/main/Finetune_Exporter.js
+// @updateURL    https://raw.githubusercontent.com/Lombard-Web-Services/Finetune-Exporter/refs/heads/main/Finetune_Exporter.js
 // ==/UserScript==
 
 (function() {

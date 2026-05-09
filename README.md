@@ -20,24 +20,6 @@ A powerful userscript that captures conversations from major AI platforms and ex
 | **Export History** | Persistent storage with metadata tracking |
 | **Glassmorphism UI** | Modern, draggable floating button |
 
-## Perfect for Fine-Tuning
-
-The exported datasets are specifically designed for fine-tuning 7B parameter LLMs using modern techniques:
-
-### Recommended Fine-Tuning Method
-
-**Quasi-Lorentzian IRLS Optimization** — A novel approach for robust LLM fine-tuning:
-
-- **Cauchy Loss** — Robust to outliers in conversation data
-- **LoRA / QLoRA** — Memory-efficient fine-tuning
-- **Tesla T4 Compatible** — Runs on affordable hardware
-
-### Technical Documentation
-
-| Language | Download Link |
-|----------|---------------|
-| 🇬🇧 English | [quasi_lorentzian_irls_optimization.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/quasi_lorentzian_irls_optimization.pdf) |
-| 🇫🇷 Français | [optimisation_quasi_lorentzienne_irls.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/optimisation_quasi_lorentzienne_irls.pdf) |
 
 ## Installation
 
@@ -75,6 +57,26 @@ Finetune-Exporter/
 ├── README_FR.md                 # French README
 └── README.md                    # This file
 ```
+
+## Perfect for Fine-Tuning
+
+The exported datasets are specifically designed for fine-tuning 7B parameter LLMs using modern techniques:
+
+### Recommended Fine-Tuning Method
+
+**Quasi-Lorentzian IRLS Optimization** — A novel approach for robust LLM fine-tuning:
+
+- **Cauchy Loss** — Robust to outliers in conversation data
+- **LoRA / QLoRA** — Memory-efficient fine-tuning
+- **Tesla T4 Compatible** — Runs on affordable hardware
+
+### Technical Documentation
+
+| Language | Download Link |
+|----------|---------------|
+| 🇬🇧 English | [quasi_lorentzian_irls_optimization.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/quasi_lorentzian_irls_optimization.pdf) |
+| 🇫🇷 Français | [optimisation_quasi_lorentzienne_irls.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/optimisation_quasi_lorentzienne_irls.pdf) |
+
 
 ## License
 

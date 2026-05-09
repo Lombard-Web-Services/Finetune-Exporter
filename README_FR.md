@@ -21,13 +21,6 @@ Un userscript puissant qui capture les conversations des principales plateformes
 | **UI Glassmorphism** | Bouton flottant moderne et déplaçable |
 
 
-### Documentation Technique
-
-| Langue | Lien de téléchargement |
-|--------|------------------------|
-| 🇬🇧 English | [quasi_lorentzian_irls_optimization.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/quasi_lorentzian_irls_optimization.pdf) |
-| 🇫🇷 Français | [optimisation_quasi_lorentzienne_irls.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/optimisation_quasi_lorentzienne_irls.pdf) |
-
 ## Installation
 
 1. Installez **Tampermonkey** ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/))
@@ -76,6 +69,14 @@ Les jeux de données exportés sont spécifiquement conçus pour le fine-tuning 
 - **Perte de Cauchy** — Robuste face aux valeurs aberrantes dans les données de conversation
 - **LoRA / QLoRA** — Fine-tuning efficace en mémoire
 - **Compatible Tesla T4** — Fonctionne sur du matériel abordable
+
+### Documentation Technique
+
+| Langue | Lien de téléchargement |
+|--------|------------------------|
+| 🇬🇧 English | [quasi_lorentzian_irls_optimization.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/quasi_lorentzian_irls_optimization.pdf) |
+| 🇫🇷 Français | [optimisation_quasi_lorentzienne_irls.pdf](https://raw.githubusercontent.com/Lombard-Web-Services/cauchy/main/optimisation_quasi_lorentzienne_irls.pdf) |
+
 
 
 ## Licence

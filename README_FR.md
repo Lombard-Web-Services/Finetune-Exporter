@@ -20,17 +20,6 @@ Un userscript puissant qui capture les conversations des principales plateformes
 | **Historique d'export** | Stockage persistant avec suivi des métadonnées |
 | **UI Glassmorphism** | Bouton flottant moderne et déplaçable |
 
-## Parfait pour le Fine-Tuning
-
-Les jeux de données exportés sont spécifiquement conçus pour le fine-tuning de LLM 7B paramètres via des techniques modernes :
-
-### Méthode de Fine-Tuning Recommandée
-
-**Optimisation Quasi-Lorentzienne IRLS** — Une approche novatrice pour un fine-tuning robuste des LLM :
-
-- **Perte de Cauchy** — Robuste face aux valeurs aberrantes dans les données de conversation
-- **LoRA / QLoRA** — Fine-tuning efficace en mémoire
-- **Compatible Tesla T4** — Fonctionne sur du matériel abordable
 
 ### Documentation Technique
 
@@ -72,8 +61,22 @@ Finetune-Exporter/
 ├── Finetune_Exporter.js         # Userscript principal
 ├── finetune_exporter_v1_EN.png  # Capture d'écran anglaise
 ├── finetune_exporter_v1_FR.jpeg # Capture d'écran française
-└── README.md                    # Ce fichier
+├── README.md                    # README ANGLAIS
+└── README_FR.md                 # Ce fichier
 ```
+
+## Fine-Tuning
+
+Les jeux de données exportés sont spécifiquement conçus pour le fine-tuning de LLM 7B paramètres via des techniques modernes :
+
+### Méthode de Fine-Tuning Recommandée
+
+**Optimisation Quasi-Lorentzienne IRLS** — Une approche novatrice pour un fine-tuning robuste des LLM :
+
+- **Perte de Cauchy** — Robuste face aux valeurs aberrantes dans les données de conversation
+- **LoRA / QLoRA** — Fine-tuning efficace en mémoire
+- **Compatible Tesla T4** — Fonctionne sur du matériel abordable
+
 
 ## Licence
 

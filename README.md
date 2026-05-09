@@ -72,7 +72,7 @@ Finetune-Exporter/
 ├── Finetune_Exporter.js         # Main userscript
 ├── finetune_exporter_v1_EN.png  # English screenshot
 ├── finetune_exporter_v1_FR.jpeg # French screenshot
-├── README_FR.md # French README
+├── README_FR.md                 # French README
 └── README.md                    # This file
 ```
 

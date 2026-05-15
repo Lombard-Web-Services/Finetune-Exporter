@@ -89,5 +89,4 @@ CC BY-NC-SA 4.0 — Free for non-commercial use with attribution.
 ## 👤 Author
 
 **Thibaut LOMBARD** ([@lombardweb](https://github.com/Lombard-Web-Services/Finetune-Exporter))
-
-Lombard Web Services
+Helped with TRAE Generated content and DeepSeek, Orchestration on MOULT-AI Enterprise

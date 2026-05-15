@@ -4,7 +4,7 @@
 // @version      1.0
 // @license      CC BY-NC-SA 4.0
 // @description  Export conversations from ChatGPT, Gemini, DeepSeek, Grok, Claude, Copilot, Cohere, Mistral, Kimi, DeepInfra, DeepAI, Meta AI, Qwen, Perplexity, LinkedIn. Formats: JSON, JSONL, ShareGPT, Alpaca, Markdown, TXT, CSV, HTML.
-// @author       Thibaut LOMBARD (@lombardweb)
+// @author       Thibaut LOMBARD (@lombardweb) Helped with TRAE Generated content and DeepSeek, Orchestration on MOULT-AI Enterprise
 // @match        https://chatgpt.com/*
 // @match        https://gemini.google.com/*
 // @match        https://gemini.google.com/app/*

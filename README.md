@@ -26,7 +26,7 @@ Lombard Web Services
 
 1. Install **Tampermonkey** ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/))
 2. Click [**Install**](https://raw.githubusercontent.com/Lombard-Web-Services/Finetune-Exporter/refs/heads/main/Finetune_Exporter.js)
-3. Navigate to any supported platform
+3. Navigate to any supported platformhttps://github.com/Lombard-Web-Services/Finetune-Exporter
 4. Click the floating button → Select format → Export
 
 ## Usage
@@ -81,7 +81,7 @@ The exported datasets are specifically designed for fine-tuning 7B parameter LLM
 
 ## License
 
-CC BY-NC-SA 4.0 — Free for non-commercial use with attribution.
+CC BY — Free for non-commercial use with attribution.
 
 - Modify and share
 - Commercial use prohibited

@@ -2,6 +2,7 @@
 // @name         Finetune Exporter - Exporteur Universel
 // @namespace    http://tampermonkey.net/
 // @version      1.2
+// @license      CC BY
 // @description  Exporte conversations de ChatGPT, Gemini, DeepSeek, Grok, Claude, Copilot, Cohere, Mistral, Kimi, DeepInfra, DeepAI, Meta AI, Qwen, Perplexity, LinkedIn. Formats: JSON, JSONL, ShareGPT, Alpaca, Markdown, TXT, CSV, HTML.
 // @author       Thibaut LOMBARD (@lombardweb) Helped with TRAE Generated content and DeepSeek, Orchestration on MOULT-AI Enterprise
 // @match        https://chatgpt.com/*

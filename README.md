@@ -22,6 +22,7 @@ A powerful userscript that captures conversations from major AI platforms and ex
 
 
 ## Installation
+Lombard Web Services
 
 1. Install **Tampermonkey** ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/))
 2. Click [**Install**](https://raw.githubusercontent.com/Lombard-Web-Services/Finetune-Exporter/refs/heads/main/Finetune_Exporter.js)
@@ -89,4 +90,4 @@ CC BY-NC-SA 4.0 — Free for non-commercial use with attribution.
 ## 👤 Author
 
 **Thibaut LOMBARD** ([@lombardweb](https://github.com/Lombard-Web-Services/Finetune-Exporter))
-Helped with TRAE Generated content and DeepSeek, Orchestration on MOULT-AI Enterprise
+Helped with TRAE Generated content and DeepSeek, Gemini for the image, Orchestration on MOULT-AI Enterprise
